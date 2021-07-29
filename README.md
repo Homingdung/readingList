@@ -1,4 +1,4 @@
-![readinglist](https://img.shields.io/badge/math-reading%20list-orange)
+![readinglist](https://img.shields.io/badge/math-reading%20list-orange)     ![status](https://img.shields.io/badge/status-updating-blue)
 
 # readingList
 
