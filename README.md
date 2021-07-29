@@ -3,8 +3,12 @@ Please forgive me for being long-winded since every book here has kept a memory 
 
 ## Mathematics:
 Books I read:
-+ 'Calculus' by James Stewart - I am sure that this is one of the most famous calculus books in the world.  
-+ 'Thomas's Calculus' - I refered more on this book when I was learning the multiple integrals part, compared to the one written by James Stewart.
++ *Calculus* by James Stewart  
+ > I am sure that this is one of the most famous calculus books in the world.  
+
++ *Thomas's Calculus* by George B. Thomas
+> I refered more on this book when I was learning the multiple integrals part, compared to the one written by James Stewart.
+
 + 'Vector Calculus' - It was my primary reference book for my second year and the author Paul is from our school. This book is so fantastic that my notes on this book even cover the whole texts!
 + 'Advanced Engineering Mathematics' by Erwin Kreyszig - This books gave me a good start of learning Differential equations from my first year in the unviersity, now it was more like a tool book for me to refer some concepts I learnt quickly. However, I haven't read the part E, F, G.
 + 'Nonlinear dynamics and Chaos' by Steven H. Strogatz - It is this book that brings me to the nonlinear beauty of this world. Steven has another book called 'Infinite powers', which makes me know the how powful calculus is.
