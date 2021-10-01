@@ -86,8 +86,9 @@ Books I plan to read:
 > I am always attracted by the nonliear beauty of this world. I think that in order to study the nonlinear world, people should have a general view of a system, but not just focus on a particular things in the system.  Nonliear dynamics has brought me to the field of complex systems, which is also a field I would like to devote myself to study. I believe that this book will give me a nice guidance for my future study.
 
 
++ *Linear and Nonlinear Functional Analysis with Applications* by Philppe G. Ciarlet
 
-
+> My basic goal is to finish reading the linear part of this book since this books is the most informative one of the many functional analysis books, up to 800 pages.
 
 
 
