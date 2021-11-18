@@ -71,6 +71,10 @@ Books I read:
 
 > It is the primary reference book when I was learning the scientific computing. However, I don't think that this book gives a good introduction to interpolation, since for beginners, it is easy to get confused about the interpolation and fitting, the difference should be emphasized.  
 
++ *Advanced Mathematical Methods for Scientists and Engineers* by Bender/ Orszag
+> Chapters about asymptotic skills for algebra, boundary layer theory, WKBJ theory, and multiple scales methods are the auxiliary materials for my study of the course *Differential Equations*. 
+> 
+
 
 
 
